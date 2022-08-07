@@ -1,0 +1,46 @@
+h1  {color:rgb(21, 14, 235)
+    font-familysans-serif}
+
+h2 {color:rgb(230, 18, 18);
+    font-family:sans-serif
+
+}
+
+h3 { color:rgb(230,18,18);
+    font-family:sans-serif;
+
+}
+#titlle {color:rgb(27, 222, 196);
+    font-weight: bold;
+
+}
+
+.bnt {
+color:var (darksalmon)
+background-color var (burlywood)
+}
+.bnt {
+position:fixed;
+top:10px;
+left:150px;
+height: 30px;
+width:30px;
+border-radius:50%;
+border:none;
+color:coral
+background-color(coral)
+}
+
+.light-theme{
+ --bg:var(--red)
+ --fontcolor:var(--black)
+ --btnBg:var(--black)
+ --btnFontColor:var(--white)
+}
+
+.dark-theme {
+--fontcolor:var(--red)
+--bg:var(--black)
+--btnBg:var(--white)
+--btnFontColor:var(--black)
+}
